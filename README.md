@@ -1,4 +1,4 @@
-### Hello world! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/E![Earth](https://github.com/gitsena/GitSena/assets/89034251/0035c5b2-0430-4037-a02b-f4490f70a7b3)
+### Hello world!<code><img height="20" src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/E![Earth]</code>
 arth.gif width="30"> Hi there <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Eart![Hi](https://github.com/gitsena/GitSena/assets/89034251/bd7cc7c5-b710-458d-9bd3-d728f61aeeaa)
 h.gif width="30">
 
