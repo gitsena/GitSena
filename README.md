@@ -1,4 +1,4 @@
-### Hello world! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
+### Hello world! <code><img height="20" src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30"></code>
 
 
  Hi there 
