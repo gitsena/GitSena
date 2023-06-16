@@ -4,8 +4,7 @@
 
 # Welcome!!!<code><img src=https://github.com/gitsena/GitSena/assets/89034251/70464a40-9800-4c56-9d43-ad6421b62fc4 width="30"></code>
 
-
-
+[]
 
 ## I am (André Sena)!
 
