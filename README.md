@@ -60,7 +60,7 @@ Connect with me  <code><img src=https://github.com/gitsena/GitSena/assets/890342
 
 
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)]([LINK_GIT](https://github.com/gitsena))
+[![Github Badge](https://github.com/gitsena)]([LINK_GIT]
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= LINK_LINKEDIN)]( [LINK_LINKEDIN](https://www.linkedin.com/in/andr%C3%A9-dias-de-sena-b6b915225/))
+[![Linkedin Badge](https://www.linkedin.com/in/andr%C3%A9-dias-de-sena-b6b915225/)]( [LINK_LINKEDIN]
 
