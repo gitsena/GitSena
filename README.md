@@ -1,8 +1,8 @@
-### Hello world! 
-Hi there 
-<code><img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30"></code>
+### Hello world! <code><img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30"></code>
+# Hi there <code><img src=https://github.com/gitsena/GitSena/assets/89034251/4e8a1f57-f49b-4504-ae21-5845eca5dffd width="30"></code>
 
-# Welcome! ![headbang]<code><img src=https://github.com/gitsena/GitSena/assets/89034251/70464a40-9800-4c56-9d43-ad6421b62fc4 width="30"></code>
+
+# Welcome! !<code><img src=https://github.com/gitsena/GitSena/assets/89034251/70464a40-9800-4c56-9d43-ad6421b62fc4 width="30"></code>
 
 
 
