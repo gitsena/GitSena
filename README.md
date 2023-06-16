@@ -61,5 +61,7 @@ Connect with me  <code><img src=https://github.com/gitsena/GitSena/assets/890342
 
 [![Github Badge](https://github.com/gitsena)]([LINK_GIT]
 
-[![Linkedin Badge](https://www.linkedin.com/in/andr%C3%A9-dias-de-sena-b6b915225/)]( [LINK_LINKEDIN]
+[![Linkedin Badge](https://www.linkedin.com/in/andr%C3%A9-dias-de-sena-b6b915225/)]( [LINK_www.linkedin.com/in/
+andré-dias-de-sena-b6b915225
+LINKEDIN]
 
