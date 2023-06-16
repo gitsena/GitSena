@@ -1,4 +1,4 @@
-###Hi there <code><img src=https://github.com/gitsena/GitSena/assets/89034251/4e8a1f57-f49b-4504-ae21-5845eca5dffd height= "30"></code> Hello world! <code><img src=https://github.com/gitsena/GitSena/assets/89034251/f9672fc4-7c85-42b6-a6ea-80034a81f521 height= "30"></code> 
+### Hi there <code><img src=https://github.com/gitsena/GitSena/assets/89034251/4e8a1f57-f49b-4504-ae21-5845eca5dffd height= "30"></code> Hello world! <code><img src=https://github.com/gitsena/GitSena/assets/89034251/f9672fc4-7c85-42b6-a6ea-80034a81f521 height= "30"></code> 
 
 
 
@@ -6,7 +6,7 @@
 
 
 
-# Welcome!!!<code><img src=https://github.com/gitsena/GitSena/assets/89034251/70464a40-9800-4c56-9d43-ad6421b62fc4 height= "20"></code>
+# Welcome!!!<code><img src=https://github.com/gitsena/GitSena/assets/89034251/70464a40-9800-4c56-9d43-ad6421b62fc4 height= "30"></code>
 
 
 ## I am (André Sena)!
