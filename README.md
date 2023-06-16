@@ -26,17 +26,13 @@
 
 ?theme=tokyonight <img align="right" width="400" height="400" src="coloque_o_link_de_uma_foto_aqui">
 
-
-
-
-[![gitsena GitHub stats](https://github-readme-stats.vercel.app/api?username=gitsena)](https://github.com/gitsena/github-readme-stats)
+[![GitSena GitHub stats](https://github-readme-stats.vercel.app/api?username=gitsena)](https://github.com/gitsena/github-readme-stats)
 
 ----------------------------------------------------------------------------------
 
 <code><img height="20" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysq18logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></code> 
-<code><img height="20" src-"https://img.shields.io/badge/Postman-FF6C37?stylemfor-the-badge&logo=Postman&logoColorawhite"></code> 
 <code><img height="20" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColorsF7DF1E"></code>
 <code><img height="20" src="nttps://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=htm1581ogoColor=white"></code> 
