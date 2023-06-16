@@ -1,6 +1,7 @@
-### Hello world!<code><img height="20" src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/E![Earth]</code>
-arth.gif width="30"> Hi there <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Eart![Hi](https://github.com/gitsena/GitSena/assets/89034251/bd7cc7c5-b710-458d-9bd3-d728f61aeeaa)
-h.gif width="30">
+### Hello world! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
+
+
+ Hi there 
 
 
 # Welcome! ![headbang](https://github.com/gitsena/GitSena/assets/89034251/70464a40-9800-4c56-9d43-ad6421b62fc4)
@@ -31,21 +32,19 @@ h.gif width="30">
 ----------------------------------------------------------------------------------
 
 <code><img height="20" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/Spring-6DB33F?stylesfor-the-badge&logo=spring&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysq18logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></code> 
 <code><img height="20" src-"https://img.shields.io/badge/Postman-FF6C37?stylemfor-the-badge&logo=Postman&logoColorawhite"></code> 
 <code><img height="20" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColorsF7DF1E"></code>
 <code><img height="20" src="nttps://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=htm1581ogoColor=white"></code> 
-
-<code><img height="20" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></code> 
-
-<code><img height="20" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></code> 
+<code><img height="20" src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot"></code> 
+<code><img height="20" src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white"></code> 
 <code><img height="20" src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Lightning-792DE4?style=for-the-badge&logo=pytorch-lightning&logoColor=white"></code>
-
+<code><img height="20" src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white"></code>
 
 - Thanks for the visit. ![coin](https://github.com/gitsena/GitSena/assets/89034251/b5d37775-2230-44f1-a504-ef4817f01006)
 
@@ -64,4 +63,5 @@ Connect with me ![Handshake](https://github.com/gitsena/GitSena/assets/89034251/
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= LINK_LINKEDIN)]( [LINK_LINKEDIN](https://www.linkedin.com/in/andr%C3%A9-dias-de-sena-b6b915225/))
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= LINK_LINKEDIN)]( [LINK_LINKEDIN](https://www.linkedin.com/in/andr%C3%A9-dias-de-sena-b6b915225/))
 
