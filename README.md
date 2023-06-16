@@ -1,7 +1,5 @@
-### Hello world! <code><img height="20" src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30"></code>
-
-
- Hi there 
+### Hello world! <code><img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30"></code>
+Hi there 
 
 
 # Welcome! ![headbang](https://github.com/gitsena/GitSena/assets/89034251/70464a40-9800-4c56-9d43-ad6421b62fc4)
