@@ -55,13 +55,12 @@
 
 ----------------------------------------------------------------------------------
 
-Connect with me ![Handshake](https://github.com/gitsena/GitSena/assets/89034251/6166ce38-f97b-4274-888d-24652c1395ca)
+Connect with me  <code><img src=https://github.com/gitsena/GitSena/assets/89034251/6166ce38-f97b-4274-888d-24652c1395ca height= "30"></code>
+
 
 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)]([LINK_GIT](https://github.com/gitsena))
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= LINK_LINKEDIN)]( [LINK_LINKEDIN](https://www.linkedin.com/in/andr%C3%A9-dias-de-sena-b6b915225/))
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= LINK_LINKEDIN)]( [LINK_LINKEDIN](https://www.linkedin.com/in/andr%C3%A9-dias-de-sena-b6b915225/))
 
