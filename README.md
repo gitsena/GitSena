@@ -58,7 +58,7 @@
 
 Connect with me  <code><img src=https://github.com/gitsena/GitSena/assets/89034251/6166ce38-f97b-4274-888d-24652c1395ca height= "30"></code>
 
-[![Github Badge](https://img.shields.lo/badge/Github0007stylesflatsquare&logo=Github&logoColorawhite&link=https://github.com/https://github.com/gitsena)
+[![Github Badge](https://img.shields.lo/badge/Github0007stylesflatsquare&logo=Github&logoColorawhite&link=https://github.com/gitsena)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hellen-massolin/)](https://www.linkedin.com/in/andr%C3%A9-dias-de-sena-b6b915225/)
 
