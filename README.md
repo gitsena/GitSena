@@ -23,12 +23,11 @@
 
 
 ## Languages and tools:
-<a href="https://github.com/gitsena/github-readme-stats">
-  <img align="start" src="https://github-readme-stats.vercel.app/api?username=gitsena&theme=tokyonight&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="end" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitsena&theme=tokyonight&layout=compact" />
-</a>
+
+![gitsena GitHub stats](https://github-readme-stats.vercel.app/api?username=gitsena&theme=tokyonight&show_icons=true)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitsena&theme=tokyonight&layout=compact)](https://github.com/gitsena/github-readme-stats)
 
 
 
