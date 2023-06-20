@@ -24,12 +24,10 @@
 
 ## Languages and tools:
 
-<img align="right" width="400" height="400" src="coloque_o_link_de_uma_foto_aqui">
-
 ![gitsena GitHub stats](https://github-readme-stats.vercel.app/api?username=gitsena&theme=tokyonight&show_icons=true)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitsena&layout=compact)](https://github.com/gitsena/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitsena&layout=tokyonight)](https://github.com/gitsena/github-readme-stats)
 
 ----------------------------------------------------------------------------------
 
