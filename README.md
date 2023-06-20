@@ -30,6 +30,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitsena&theme=tokyonight&layout=compact)](https://github.com/gitsena/github-readme-stats)
 
 
+[![gitsena wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gitsena&theme=tokyonight)](https://github.com/gitsena/github-readme-stats)
+
 
 ----------------------------------------------------------------------------------
 
@@ -52,7 +54,6 @@
 
 
 - Enjoy it!! ! <code><img src=https://github.com/gitsena/GitSena/assets/89034251/ed6bf5c0-341c-4409-806c-28c6eb6177e9 height= "30"></code> 
-
 
 
 
