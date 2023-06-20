@@ -30,7 +30,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitsena&theme=tokyonight&layout=compact)](https://github.com/gitsena/github-readme-stats)
 
 
-[![gitsena wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gitsena&theme=tokyonight)](https://github.com/gitsena/github-readme-stats)
+[![gitsena wakatime stats](https://github-readme-stats.vercel.app/api/wakatime/?username=gitsena&theme=tokyonight)](https://github.com/gitsena/github-readme-stats)
 
 
 ----------------------------------------------------------------------------------
