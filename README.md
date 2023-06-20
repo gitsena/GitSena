@@ -30,9 +30,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitsena&theme=tokyonight&layout=compact)](https://github.com/gitsena/github-readme-stats)
 
 
-[![gitsena wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gitsena&theme=tokyonight)](https://github.com/gitsena/github-readme-stats)
-
-
 ----------------------------------------------------------------------------------
 
 <code><img height="20" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
@@ -61,11 +58,7 @@
 
 Connect with me  <code><img src=https://github.com/gitsena/GitSena/assets/89034251/6166ce38-f97b-4274-888d-24652c1395ca height= "30"></code>
 
+[![Github Badge](https://img.shields.lo/badge/Github0007stylesflatsquare&logo=Github&logoColorawhite&link=https://github.com/gitsenahttps://github.com/gitsena)
 
-
-[![Github Badge](https://github.com/gitsena)]([LINK_GIT]
-
-[![Linkedin Badge](https://www.linkedin.com/in/andr%C3%A9-dias-de-sena-b6b915225/)]( [LINK_www.linkedin.com/in/
-andré-dias-de-sena-b6b915225
-LINKEDIN]
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hellen-massolin/)](https://www.linkedin.com/in/andr%C3%A9-dias-de-sena-b6b915225/)
 
