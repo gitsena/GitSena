@@ -35,7 +35,7 @@
 <code><img height="20" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></code> 
 <code><img height="20" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColorsF7DF1E"></code>
-<code><img height="20" src="nttps://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=htm1581ogoColor=white"></code> 
+<code><img height="20" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=htm1581ogoColor=white"></code> 
 <code><img height="20" src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot"></code> 
 <code><img height="20" src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white"></code> 
