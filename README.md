@@ -12,7 +12,7 @@
 ### I am (André Sena)!
 
 
-:computer: I'm a Front-End Developer! <code><img src=https://github.com/gitsena/GitSena/assets/89034251/33392cab-78ef-42ef-88be-8d81a5a3096e width="30"></code>
+:computer: I'm a Full stack Developer! <code><img src=https://github.com/gitsena/GitSena/assets/89034251/33392cab-78ef-42ef-88be-8d81a5a3096e width="30"></code>
 
 :house_with_garden:I’m from Brazil. 🇧🇷
 
