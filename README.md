@@ -21,7 +21,6 @@
 :outbox_tray: Goals for 2023: create new projects and find and be hired. <code><img src=https://github.com/gitsena/GitSena/assets/89034251/648f1ac4-3df2-4ab8-8854-975b474c3713 height= "20" ></code>
 
 
-
 ## Languages and tools:
 
 | ![Gitsena GitHub stats](https://github-readme-stats.vercel.app/api?username=gitsena&show_icons=true&theme=tokyonight) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitsena&theme=tokyonight&layout=compact)](https://github.com/gitsena/github-readme-stats) |
