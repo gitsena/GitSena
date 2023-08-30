@@ -43,8 +43,7 @@
 <code><img height="20" src="https://img.shields.io/badge/Lightning-792DE4?style=for-the-badge&logo=pytorch-lightning&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white"></code>
 
-
-![snake gif](https://github.com/gitsena/GitSena/blob/output/github-contribution-grid-snake.svg)
+<!--![snake gif](https://github.com/gitsena/GitSena/blob/output/github-contribution-grid-snake.svg)-->
 
 - Thanks for the visit. <code><img src=https://github.com/gitsena/GitSena/assets/89034251/b5d37775-2230-44f1-a504-ef4817f01006 height= "30"></code> 
 
