@@ -18,7 +18,7 @@
 
 :books: I'm currently focusing on website and mobile apps. 📱
 
-:outbox_tray: Goals for 2023: create new projects and find and be hired. <code><img src=https://github.com/gitsena/GitSena/assets/89034251/648f1ac4-3df2-4ab8-8854-975b474c3713 height= "20" ></code>
+:outbox_tray: Goals for 2023: create new projects and meet new challenges. <code><img src=https://github.com/gitsena/GitSena/assets/89034251/648f1ac4-3df2-4ab8-8854-975b474c3713 height= "20" ></code>
 
 
 ## Languages and tools:
